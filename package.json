@@ -1,0 +1,23 @@
+{
+  "name": "portfolio.20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedesuarez16/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedesuarez16/Portfolio/issues"
+  },
+  "homepage": "https://github.com/fedesuarez16/Portfolio#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "sass": "^1.51.0"
+  }
+}
