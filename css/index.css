@@ -23,4 +23,16 @@ main div div {
   height: 100%;
 }
 
+nav {
+  background: #f86206;
+}
+.ABOUT-ME {
+  background-color: #f86206;
+  color: white;
+}
+footer {
+  background: #f86206;
+  color: #F5F5F5;
+}
+
 /*# sourceMappingURL=index.css.map */
